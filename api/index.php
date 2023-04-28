@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <title>Portfolio</title>
   <link rel="shortcut icon" href="favicon.webp" type="image/x-icon" />
-  <link rel="stylesheet" href="./index.css" />
+  <link rel="stylesheet" href="./style.css" />
  </head>
  <body>
   <header class="header" id="header">
